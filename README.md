@@ -33,3 +33,4 @@ see code-explore) · AI intern at Netcetera, 2024 (LLM chatbot evaluation) · la
 assistant at FINKI (C, C++)
 
 [Website](https://nikolanikolovski.com/) · [LinkedIn](https://www.linkedin.com/in/nikola-nikolovski-365340215/)
+
